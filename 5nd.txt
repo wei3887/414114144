@@ -1,0 +1,31 @@
+
+
+<html>
+<head>
+<title>心得報告</title>
+</head>
+<body>
+
+<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;心得報告</h1>
+
+
+
+這學期學校安排這個課程讓我學到了網頁設計的語法，<br>
+感謝老師這麼用心的教導，從來沒有想過自己也會寫<br>
+網頁。<br>
+
+
+
+
+<br><br><br>
+
+<a href="index.html">1</a.>&nbsp;&nbsp;&nbsp;
+<a href="2nd.html">2</a.>&nbsp;&nbsp;&nbsp;
+<a href="3nd.html">3</a.>&nbsp;&nbsp;&nbsp;
+<a href="4nd.html">4</a.>&nbsp;&nbsp;&nbsp;
+
+
+
+
+</body>
+</html>
